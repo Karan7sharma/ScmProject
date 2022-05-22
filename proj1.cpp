@@ -4,6 +4,7 @@ int main(){
 	
    float a,b;
    cout<<"Enter values of a and b : "<<endl;
+   //yea but why so? :D
    cin>>a>>b;
    try{
    	if (b==0){
